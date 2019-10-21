@@ -1,0 +1,2 @@
+neg_words=["hate","hatred","annoyed","annoy","annoyingly","nasty"]
+pos_words=["nice","excellent","good","wonderful","best","better","awesome","beautiful","beauty","beautifully","supreme"]
